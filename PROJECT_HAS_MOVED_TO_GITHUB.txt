@@ -1,0 +1,3 @@
+Project has moved to GitHUB:
+
+https://github.com/jquery-i18n-properties/jquery-i18n-properties
